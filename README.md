@@ -12,5 +12,5 @@ The course covered the topics:
 - Machine learning with python
 - Applied data science capstone
 
-Below is the Certificate for the completion of the course[Course Completion Certificate.pdf](https://github.com/sspalding/IBM-Data-Science-Profession-Certificate-Coursework/files/9600440/Course.Completion.Certificate.pdf)
+[Course Completion Certificate.pdf](https://github.com/sspalding/IBM-Data-Science-Profession-Certificate-Coursework/files/9600440/Course.Completion.Certificate.pdf)
 
